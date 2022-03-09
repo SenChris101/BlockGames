@@ -17,9 +17,8 @@ To run a script, right click on file name in the file explorer and click 'Run'. 
 
 Output from script will appear in remix terminal.
 
-contract address 0xc55adb6c086258479d3737d8148e7b2eec7e029c
+contract address created: 0xc55adb6c086258479d3737d8148e7b2eec7e029c
 
-view on etherscan
 [block:10301086 txIndex:4]from: 0x883...e5B13to: HelloWorld.(constructor)value: 0 weidata: 0x608...00000logs: 0hash: 0x777...4d235
 status	true Transaction mined and execution succeed
 transaction hash	0x1f7c916244e5353e04db8cf4d30fe0ddb75e4c45ec3d48f7aba2005a0216a45c
